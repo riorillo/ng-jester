@@ -9,17 +9,6 @@ Tool CLI che analizza staticamente un progetto Angular e genera la boilerplate d
 
 L'output sono file `.spec.ts` strutturati e funzionanti, che costituiscono la base su cui sviluppare le asserzioni di logica di business.
 
-### Risultati su un progetto reale (~6200 righe, Angular 19)
-
-| | |
-|---|---|
-| File sorgente analizzati | ~193 |
-| File `.spec.ts` generati | ~193 |
-| Test case generati | ~2100 |
-| Tempo di generazione | < 5 secondi |
-
----
-
 ## Indice
 
 - [Installazione e utilizzo](#installazione-e-utilizzo)
